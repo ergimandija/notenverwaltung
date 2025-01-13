@@ -4,6 +4,7 @@ Ein Notenverwaltungssystem
 
 changed
 
+![diagram drawio](https://github.com/user-attachments/assets/d375e008-9c8d-4037-ba2d-ef250be6f210)
 
 User Stories:
 - Als Lehrer kann man die Noten der Schüler schnell und einfach eintragen können und verwalten können.
