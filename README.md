@@ -1,5 +1,5 @@
 # notenverwaltung
-Ein Notenverwaltungssystem
+Ein Notenverwaltungssystem dass dazu dient die Noten der Schüler effizient zu verwalten.Es ermöglicht Lehrern, Schülern, Eltern und Administratoren, auf einfache Weise auf relevante Informationen zuzugreifen, Bewertungen zu erstellen und Transparenz im Bildungsprozess sicherzustellen.
 
 
 changed
